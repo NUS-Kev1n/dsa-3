@@ -1,3 +1,7 @@
+Repository: https://github.com/NUS-Kev1n/dsa-3/tree/main
+
+Author: WUYIKAI
+
 ## Assignment 3 Report: Sentiment Classification with DistilBERT (Full FT vs LoRA)
 
 ### 1) Data
