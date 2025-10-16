@@ -1,0 +1,18 @@
+# =================================================================
+# Final and Corrected Requirements for Assignment 3
+#
+# These versions are pinned to ensure compatibility with Python 3.9
+# and to resolve the dependency conflicts encountered during setup.
+# =================================================================
+
+# Core Hugging Face libraries with compatible versions
+transformers==4.30.0
+accelerate==0.21.0
+peft==0.4.0
+
+# Other necessary libraries
+datasets
+torch
+scikit-learn
+evaluate
+tqdm
