@@ -17,15 +17,15 @@ The goal of this project is to explore how large language models can be effectiv
 
 ## 2. Key Results
 
-The experiments clearly demonstrate the effectiveness of fine-tuning, with both strategies dramatically outperforming the baseline. Notably, LoRA achieves performance nearly identical to full fine-tuning while training only **0.44%** of the parameters.
+The experiments clearly demonstrate the effectiveness of fine-tuning, with both strategies dramatically outperforming the baseline. Notably, LoRA achieves performance nearly identical to full fine-tuning while training only **1.9890%** of the parameters.
 
 | Metric                | Baseline (Zero-Shot) | LoRA Fine-tuning       | Full Fine-tuning       |
 | --------------------- | -------------------- | ---------------------- | ---------------------- |
-| **Accuracy**          | 50.07%               | 92.30%                 | **93.21%**             |
-| **F1 Score**          | 44.63%               | 92.30%                 | **93.18%**             |
-| **Trainable Params**  | N/A                  | **~1.18M** (1.77%)     | ~66.96M (100%)         |
-| **Training Time**     | N/A                  | **~966s**              | ~1080s                 |
-| **Saved Model Size**  | N/A                  | **~3.7 MB** (Adapters) | ~256 MB (Full Model)   |
+| **Accuracy**          | 49.90%               | 91.92%                 | **92.82%**             |
+| **F1 Score**          | 35.62%               | 91.92%                 | **92.80%**             |
+| **Trainable Params**  | N/A                  | **1.33172M** (1.9890%) | ~66.96M (100%)         |
+| **Training Time**     | N/A                  | **404.56s**            | 434.42s                |
+| **Saved Model Size**  | N/A                  | **3.74 MB** (Adapters) | 256.35 MB (Full Model) |
 
 ## 3. Technology Stack
 
