@@ -1,0 +1,4 @@
+Method,Accuracy,F1 Score,Training Time (s),Trainable Params,Trainable %,Saved Model Size (MB),Dataset Size (MB)
+Baseline (Zero-Shot),0.4990,0.3562,0.00,N/A,N/A,N/A,122.86
+LoRA Fine-tuning,0.9192,0.9192,404.56,1331.72K,1.9890%,3.74,122.86
+Full Fine-tuning,0.9282,0.9280,434.42,66.96M,100.00%,256.35,122.86

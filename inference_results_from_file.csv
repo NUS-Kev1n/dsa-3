@@ -1,0 +1,51 @@
+Sentence,Actual_Sentiment,Full_Model_Prediction,LoRA_Model_Prediction
+"This is an absolutely fantastic film, a must-see for everyone.",Positive,Positive,Positive
+"I loved every single moment of it, truly a masterpiece of modern cinema.",Positive,Positive,Positive
+"The performances were outstanding, especially from the lead actor.",Positive,Positive,Positive
+A heartwarming and uplifting story that will leave you smiling.,Positive,Positive,Positive
+Brilliant directing and a beautifully written script.,Positive,Positive,Positive
+The chemistry between the main characters was undeniable and captivating.,Positive,Positive,Positive
+An instant classic! I will be watching this again very soon.,Positive,Positive,Positive
+"The cinematography was breathtaking, every shot was a work of art.",Positive,Positive,Positive
+"Hilarious from start to finish, I haven't laughed that hard in ages.",Positive,Positive,Positive
+A perfect movie for a weekend night with the family.,Positive,Positive,Positive
+A complete and utter waste of two hours of my life.,Negative,Negative,Negative
+The plot was nonsensical and full of holes. I couldn't follow it at all.,Negative,Negative,Negative
+Terrible acting and wooden dialogue made this movie unwatchable.,Negative,Negative,Negative
+I was bored to tears from the very beginning. Avoid at all costs.,Negative,Negative,Positive
+"This film is a predictable, cliche-ridden mess.",Negative,Negative,Negative
+"There was zero character development, I didn't care about anyone.",Negative,Negative,Negative
+The director should be embarrassed to have their name on this project.,Negative,Negative,Negative
+A disappointing sequel that fails to capture the magic of the original.,Negative,Negative,Negative
+The jokes fell flat and the attempts at humor were cringeworthy.,Negative,Negative,Negative
+I fell asleep halfway through and I don't think I missed anything important.,Negative,Negative,Negative
+"Although the start was a little slow, the second half was absolutely thrilling.",Positive,Positive,Positive
+"The special effects were incredible, yet they couldn't salvage the terrible plot.",Negative,Negative,Negative
+"It's not a perfect movie by any means, but it has a lot of heart.",Positive,Positive,Positive
+"While I appreciate the ambitious concept, the execution was a complete failure.",Negative,Negative,Negative
+"The lead actress did a phenomenal job, but she was stuck in a poorly written story.",Negative,Negative,Negative
+I wouldn't recommend this film to my worst enemy.,Negative,Negative,Negative
+This is not the cinematic masterpiece the critics are claiming it is.,Negative,Positive,Positive
+I have never been so disappointed by a movie in my entire life.,Negative,Negative,Positive
+There isn't a single dull moment in this action-packed adventure.,Positive,Positive,Positive
+"The movie wasn't terrible, just incredibly mediocre and forgettable.",Negative,Negative,Negative
+"Oh, another two-hour-long movie about nothing. How wonderfully artistic.",Negative,Positive,Positive
+"The plot twist was so original, I definitely didn't see it coming from a mile away.",Negative,Positive,Positive
+I'm sure the 10 people in the theater really enjoyed this cinematic gem.,Negative,Positive,Positive
+Spending my money on this ticket was clearly the best financial decision I've ever made.,Negative,Positive,Positive
+The main character was so relatable; I too am a billionaire spy with no personality.,Negative,Negative,Negative
+The film was... an experience. I'm still processing what I saw.,Negative,Positive,Positive
+"Well, the movie certainly had a beginning, a middle, and an end.",Negative,Positive,Negative
+"It's one of the movies of all time, that's for sure.",Negative,Positive,Positive
+The actors definitely said all their lines.,Negative,Positive,Positive
+You could certainly watch this movie if you had nothing else to do.,Negative,Negative,Negative
+The movie was released in 2023 and has a runtime of 124 minutes.,Negative,Positive,Positive
+The story is set in New York during the 1950s.,Negative,Positive,Positive
+This is a black-and-white documentary about the history of filmmaking.,Negative,Positive,Positive
+The budget for this film was reportedly over 200 million dollars.,Negative,Positive,Negative
+The cast includes several well-known actors from both television and film.,Negative,Positive,Positive
+It was a heartbreakingly beautiful story of love and loss.,Positive,Positive,Positive
+"The film tried to be both a comedy and a drama, but failed to be either.",Negative,Negative,Negative
+I left the theater feeling profoundly moved and contemplative.,Positive,Positive,Positive
+An ambitious but ultimately confusing narrative that left me with more questions than answers.,Negative,Positive,Positive
+"The ending was bittersweet, but it felt earned and emotionally resonant.",Positive,Positive,Positive
